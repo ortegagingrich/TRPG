@@ -1,0 +1,7 @@
+assets/
+*.jar
+*.class
+*.so
+*.out
+*.dll
+*~
